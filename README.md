@@ -18,17 +18,17 @@ Cinematic, interactive platform featuring AI-enhanced motivational media, with f
 ### 🚑 CrashLens
 Crash reporting + road-safety platform concept designed for practical deployment (reporting, dashboards, analytics).  
 **Repo:** https://github.com/TwoFoundersLab/CrashLens  
-**Team:** @eliaghazal
+**Team:** @georgekhayat • @eliaghazal
 
 ### 🧩 DFA Minimization (Hopcroft’s Algorithm)
 GUI-based DFA minimization with step-by-step visualization of partition refinement.  
 **Repo:** https://github.com/TwoFoundersLab/DFA_Minimization  
-**Team:** @eliaghazal
+**Team:** @georgekhayat • @eliaghazal
 
 ### 🔐 Cryptography (System Security)
 Implementations + exercises covering core cryptography/security concepts.  
 **Repo:** https://github.com/TwoFoundersLab/Crypto  
-**Team:** @eliaghazal
+**Team:** @georgekhayat • @eliaghazal
 
 ---
 
