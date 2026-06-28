@@ -56,7 +56,7 @@ Implementations + exercises covering core cryptography/security concepts.
 ## 🎓 Education
 
 **B.S. in Computer Science — American University of Science and Technology (AUST), Lebanon**  
-2022 – Present (Expected graduation 2026)  
+2022 – 2026   
 **Honors & Awards:**  
 - 1st Place — AUST Expo (Fall 2023–24)  
 - 2nd Place — AUST Expo (Spring 2023–24)
