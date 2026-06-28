@@ -1,5 +1,5 @@
 # George Khayat 👋
-Motivated Computer Science student with practical experience in AI model training, software development, networking, and cybersecurity — dedicated to building a career in Machine Learning and impactful tech solutions. 🇱🇧  
+Software Engineer with practical experience in AI model training, software development, networking, and cybersecurity — dedicated to building a career in Machine Learning and impactful tech solutions. 🇱🇧  
 Co-founder of **TwoFoundersLab** with **@eliaghazal**.
 
 **Organization:** https://github.com/TwoFoundersLab  
