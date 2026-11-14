@@ -15,7 +15,7 @@ Co-founder of **TwoFoundersLab** with **@eliaghazal**.
 ### 🚑 CrashLens — AI Crash Reporting Platform
 AI-powered crash reporting platform integrating Raspberry Pi, IoT sensors, geolocation, evidence capture, and intelligent dashboards.
 
-**Repo:** https://github.com/TwoFoundersLab/CrashLens  
+**[Public project showcase](https://github.com/eliaghazal/crashlens)** (source code is private)  
 **Team:** @georgekhayat • @eliaghazal
 
 ### 😀 Real-Time Facial Emotion Recognition
@@ -42,6 +42,11 @@ GUI-based DFA minimization with step-by-step visualization of partition refineme
 ---
 
 ## 💼 Professional Experience
+
+**Web Developer — Khayat Studio** *(2026 – Present)*
+
+- Built and deployed a responsive studio website from a shared design system, creating reusable components for its service pages.
+- Worked with a designer to turn business goals into clear requirements and handled implementation, testing, performance, and deployment.
 
 **AI Data Trainer — Invisible Technologies Inc. (Remote)** *(Oct 2024 – Dec 2024)*
 
