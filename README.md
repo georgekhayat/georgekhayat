@@ -70,7 +70,8 @@ GUI-based DFA minimization with step-by-step visualization of partition refineme
 **Honors & Awards**
 - 🥇 1st Place — AUST Coding Expo
 - 🥈 2nd Place — AUST Coding Expo
-- Honors List — Fall 2023, Spring 2024, Fall 2024
+- Distinguished List (1×): Fall 2023
+- Honor List (4×): Spring 2024, Fall 2024, Fall 2025, Spring 2026
 
 ---
 
