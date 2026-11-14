@@ -43,7 +43,7 @@ GUI-based DFA minimization with step-by-step visualization of partition refineme
 
 ## 💼 Professional Experience
 
-**Web Developer — Khayat Studio** *(2026 – Present)*
+**Web Developer — Khayat Studio** *(2025 – Present)*
 
 - Built and deployed a responsive studio website from a shared design system, creating reusable components for its service pages.
 - Worked with a designer to turn business goals into clear requirements and handled implementation, testing, performance, and deployment.
